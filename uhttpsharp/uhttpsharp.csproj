@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>uhttpsharp</RootNamespace>
-    <PackageProjectUrl>https://github.com/Code-Sharp/uHttpSharp</PackageProjectUrl>
-    <RepositoryUrl></RepositoryUrl>
+    <PackageProjectUrl>https://github.com/EarsKilla-fork-stuff/uHttpSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/EarsKilla-fork-stuff/uHttpSharp</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageTags>µHttpSharp</PackageTags>
     <Product>µHttpSharp</Product>
@@ -12,10 +12,10 @@
     <Authors>bonesoul, Code-Sharp</Authors>
     <Description>A very lightweight &amp; simple embedded http server for c#</Description>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
-    <RepositoryType></RepositoryType>
+    <RepositoryType>git</RepositoryType>
     <AssemblyVersion>0.1.6.23</AssemblyVersion>
     <FileVersion>0.1.6.23</FileVersion>
-    <Version>0.1.6.22</Version>
+    <Version>0.1.6.23</Version>
     <PackageId>uhttpsharp</PackageId>
   </PropertyGroup>
 
